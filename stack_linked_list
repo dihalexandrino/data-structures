@@ -35,5 +35,5 @@ Struct Stack
     delete n;
     return e;
   }
-}
+};
     
